@@ -31,3 +31,6 @@ I am a beginner and I have no experience.
 + Belkoopsoyuz trade college
 + Language school ISpeak
 ***
+### Languages:
++ Russian - Native
++ English - A1 or A2 ()
