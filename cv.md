@@ -24,3 +24,10 @@ function opposite(number) {
 }
 ```
 ***
+### Experience:
+I am a beginner and I have no experience.
+***
+### Education:
++ Belkoopsoyuz trade college
++ Language school ISpeak
+***
