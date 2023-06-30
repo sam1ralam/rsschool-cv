@@ -33,3 +33,16 @@ function opposite(number) {
 }
 ```
 
+---
+### Experience:
+I am a beginner and I have no experience.
+
+---
+### Education:
++ Belkoopsoyuz trade college
++ Language school ISpeak
+
+---
+### Languages:
++ Russian - Native
++ English - A1 or A2 ()
