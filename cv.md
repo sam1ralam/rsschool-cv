@@ -17,3 +17,19 @@ __Discord__: Sam1r(@sam1ralam)
 ### Information About Me:
 I am new to development and I set a goal to learn programming and become a developer, because I believe that this is the present and the future, and I am interested in studying and developing in this direction. And if it is difficult, then I will try to work and solve the problems that will appear on the way. My strong point is easy learning.
 
+---
+### Skills:
++ HTML (Basic)
++ CSS (Basic)
++ JavaScript (Basic)
++ Git and GitHub (Basic)
+
+---
+### Code Example:
+
+```
+function opposite(number) {
+  return(-number);
+}
+```
+
