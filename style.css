@@ -75,8 +75,21 @@
     color: #829985;
   }
 
+  .footer {
+    background-color:#748075;
+  }
+  
+  .footer-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: #c2cac3;
+    font-size: 20px;
+  }
+  
   @media (max-width: 768px) {
     .section {
       width: 100%;
     }
   }
+
